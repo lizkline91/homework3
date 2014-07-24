@@ -1,0 +1,150 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+body{
+  font-family:'Oswald';
+  font-style:normal;
+  font-weight:300
+}
+header{
+  max: 100%;
+}
+
+h1{
+  text-align:center;
+}
+a{
+  color:navy;
+  text-decoration:none;
+}
+.nav{
+  position: absolute;
+  top:10px;
+  right:130px;
+}
+.nav li{
+    display:inline-block;
+    list-style:none;
+}
+nav{
+  position:absolute;
+  top:5;
+  right:0;
+}
+nav{
+  list-style:none;
+}
+
+ul{display:inline-block;
+  text-decoration:none;
+  list-style:none;
+  }
+nav li{
+  display:inline-block;
+  list-style:none;
+  margin-left:10px;
+  padding:15px;
+  font-size:12px;
+  font-style:normal;
+}
+nav a{
+  color:white;
+  list-style:none;
+  text-decoration: none;
+}
+footer{
+  height:120px;
+  background-color:#2e5a7f;
+}
+.container{
+  padding:0px;
+  width:80%;
+  margin: 0 auto;
+
+}
+.section li{
+  display:inline-block;
+  text-align:left;
+}
+
+.copyright{
+  text-align:left;
+  margin:0 auto;
+  padding:0 auto:
+}
+.container2{
+}
+
+.image li{
+  display: inline;
+  list-style:none;
+}
+.vertical-line{
+  border-left:thin solid grey;
+  padding: 3px;
+  margin: 5px;
+}
+.section img{
+  border-radius:100%;
+}
+.section{
+  display:inline-block;
+  text-align:left;
+  width:50%;
+  margin:0 auto;
+  padding:30px;
+}
+.section h1{
+  text-align:left;
+}
+.aside{
+  display:inline-block;
+  vertical-align:top;
+  display:inline-block;
+  margin-top:60px;
+  padding:20px;
+  width:35%;
+}
+.posts{
+  width: 100%;
+}
+img{
+  background-color:#2e5a7f
+}
+.box{
+  display:inline-block;
+  width:100%;
+  align:center;
+}
+.box1{
+  align:center;
+}
+.box1 img{
+  border-radius:100%;
+  margin-left:105px;
+}
+.box1 h5{
+  margin-left:100px;
+}
+.box1 ul{
+  display:inline-block;
+  margin-left:-80px;
+}
+.box1 li{
+  display:inline-block;
+  text-align:center;
+  list-style:none;
+}
+.box2 a{
+  text-align:left;
+}
+.grid{
+  display:inline-block;
+  position:relative;
+  width:100%;
+  margin-left:27px;
+}
+.image{
+  float:left;
+  zoom:1;
+  height:226px;
+  background-color:#2e5a7f;
+}
